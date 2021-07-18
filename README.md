@@ -38,3 +38,6 @@ Process
  * What is the average life expectancy in these nations?
  * Is there a correlation between GDP and life expectancy of a country?
 
+![GDP_All_Over_Time](https://user-images.githubusercontent.com/71391244/126052540-14b8d61d-faf8-490d-ac2b-8277e7ed6d04.png)
+![Life_Expectancy_All_Over_Time](https://user-images.githubusercontent.com/71391244/126052543-532d1498-97d9-4f8e-ad9d-5527df3d4635.png)
+
