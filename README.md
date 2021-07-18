@@ -25,7 +25,7 @@ Process
 
 
 **Exploratory Data Analysis (EDA)**
- * Establish the question we are trying to solve
+ * Establish the question(s) we are trying to solve
  * What kind of data do we have? What types of visualizations suit our types?
  * What's missing from the data? (if anything)
  * Where are the outliers?
